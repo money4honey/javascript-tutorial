@@ -119,7 +119,7 @@
 <li>`parent.removeChild(child)`</li>
 <li>`parent.insertBefore(newChild, refNode)`</li>
 <li>`parent.insertAdjacentHTML("beforeBegin|afterBegin|beforeEnd|afterEnd", html)`</li>
-<li>`parent.insertAdjacentElement("beforeBegin|...|afterEnd", text)` (кроме FF)</li>
+<li>`parent.insertAdjacentElement("beforeBegin|...|afterEnd", element)` (кроме FF)</li>
 <li>`parent.insertAdjacentText("beforeBegin|...|afterEnd", text)` (кроме FF)</li>
 <li>`document.write(...)`</li>
 </ul>
